@@ -47,6 +47,15 @@ Joystick/Botones en pantalla : Controles táctiles dedicados en la parte inferio
 *📝 Guiones principales*
 
 **MovimientoJugador.cs:** Gestiona la física del personaje y aplica el Mathf.Clamp para los límites de pantalla.
+```
+Vector3 pos = transform.position;
+
+pos.x = Mathf.Clamp(pos.x, min, max);
+
+transform.position = pos;
+
+```
+
 
 **Enemigo.cs:** Controla la detección de colisiones mediante OnCollisionEnter2Dpara reiniciar la escena.
 
