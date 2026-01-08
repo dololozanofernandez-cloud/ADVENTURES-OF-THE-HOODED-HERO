@@ -40,9 +40,9 @@ Joystick/Botones en pantalla : Controles táctiles dedicados en la parte inferio
 
 *🎮 Muestra del juego*
 
-![Imagen de la pantalla de inicio](MovimientoAnimaciones/Imagenes/INICIO.png)
-![Imagen del nivel uno](MovimientoAnimaciones/Imagenes/NIVELUNO.png)
-![Imagen de la pantalla ganador](MovimientoAnimaciones/Imagenes/NIVELDOS.png)
+![Imagen de la pantalla de inicio](imagenes/Juego.jpeg)
+![Imagen del nivel uno](imagenes/Juego.jpeg)
+![Imagen de la pantalla ganador](imagenes/Juego.jpeg)
 
 *📝 Guiones principales*
 
